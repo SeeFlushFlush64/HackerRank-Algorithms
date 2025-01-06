@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\bin\Debug\net8.0\PlusMinus.exe
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\bin\Debug\net8.0\PlusMinus.deps.json
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\bin\Debug\net8.0\PlusMinus.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\bin\Debug\net8.0\PlusMinus.dll
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\bin\Debug\net8.0\PlusMinus.pdb
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.dll
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\refint\PlusMinus.dll
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.pdb
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\PlusMinus.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\HackerRank-Algoirithms\PlusMinus\obj\Debug\net8.0\ref\PlusMinus.dll

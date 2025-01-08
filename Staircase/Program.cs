@@ -23,20 +23,31 @@ class Result
 
     public static void staircase(int n)
     {
+        //Manual Solution
+        // for (int i = 1; i <= n; i++)
+        // {
+        //     for (int j = n - i; j > 0; j--)
+        //     {
+        //         Console.Write(" ");
+        //     }
+        //     for (int k = 1; k <= i; k++)
+        //     {
+        //         Console.Write("#");
+        //     }
+        //     if (i != n)
+        //     {
+        //         Console.WriteLine();
+        //     }
+        // }
+
+        //StringBuilder solution
+
         for (int i = 1; i <= n; i++)
         {
-            for (int j = n - i; j > 0; j--)
-            {
-                Console.Write(" ");
-            }
-            for (int k = 1; k <= i; k++)
-            {
-                Console.Write("#");
-            }
-            if (i != n)
-            {
-                Console.WriteLine();
-            }
+            StringBuilder sb = new StringBuilder();
+            sb.Append(' ', n - i);
+            sb.Append('#', i);
+            Console.WriteLine(sb);
         }
     }
 
